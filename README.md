@@ -2,7 +2,7 @@
 Note: to display math symbols, please download chrome plug-in [GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
 
 ## Build requirement
-## packages: [fwdpp](https://github.com/molpopgen/fwdpp), [eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
+### packages: [fwdpp](https://github.com/molpopgen/fwdpp), [eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 
 ## Installation
 - Compiler should support c++11
