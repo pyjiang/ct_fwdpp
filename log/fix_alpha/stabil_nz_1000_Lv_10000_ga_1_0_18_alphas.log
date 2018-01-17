@@ -1,0 +1,12 @@
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 31287 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 0.5 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 15814 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 1 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 24335 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 2 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 23385 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 4 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 2133 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 8 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 14521 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 16 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 18398 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 64 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 6333 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 128 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 31043 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 256 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 9629 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 2.5 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 19864 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 3 &
+../../ct_haploid_fixed_diff_rob_alpha 0 16000000 19496 diff_rob_by_alpha/stabil_nz_1000_Lv_10000_ga_1_0_18 3.5 &
