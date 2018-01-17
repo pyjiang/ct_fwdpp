@@ -6,8 +6,8 @@ Note: to display math symbols, please download chrome plug-in [GitHub with MathJ
 - I use fwdpp version 0.5.1 (with fixing a small bug in the #ifndef statement in fwdpp/tags/gamete_tags.hpp; alternatively, a version with this bug fixed is 0.5.3), eigen 3.3.1.
 
 ## Installation
-- Compiler should support c++11
-- Download the required packages (only c++ header files are needed)
+- Compiler should support C++11
+- Download the required packages (only C++ header files are needed)
 - Edit Makefile in this directory (change CPPFLAGS -I to the package directory)
 - `make all` to make all the targets
 - or optionally, only make specific target
