@@ -1,8 +1,17 @@
 
+ct_fwdpp is a free software. It is under GNU General Public License GPLv3. Any redistribution or modification should be under the terms of the GNU General Public License as published by the Free Software Foundation.
+
 Note: to display math symbols, please download chrome plug-in [GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
 
+Any questions or comments:
+```
+Pengyao Jiang <pyjiang2@gmail.com>
+```
+
 ## Build requirement
-### packages: [fwdpp](https://github.com/molpopgen/fwdpp), [eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
+### packages: 
+[fwdpp](https://github.com/molpopgen/fwdpp) by Kevin Thornton, and 
+[Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page). 
 - I use fwdpp version 0.5.1 (with fixing a small bug in the #ifndef statement in fwdpp/tags/gamete_tags.hpp; alternatively, a version with this bug fixed is 0.5.3), eigen 3.3.1.
 
 ## Installation
