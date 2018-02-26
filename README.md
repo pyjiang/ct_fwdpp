@@ -10,7 +10,7 @@ Pengyao Jiang <pyjiang2@gmail.com>
 
 ## Build requirement
 ### packages: 
-[fwdpp](https://github.com/molpopgen/fwdpp) by Kevin Thornton, and 
+[fwdpp](https://github.com/molpopgen/fwdpp),
 [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page). 
 - I use fwdpp version 0.5.1 (with fixing a small bug in the #ifndef statement in fwdpp/tags/gamete_tags.hpp; alternatively, a version with this bug fixed is 0.5.3), eigen 3.3.1.
 
