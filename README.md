@@ -1,5 +1,5 @@
 
-ct_fwdpp is a free software. It is under GNU General Public License GPLv3. Any redistribution or modification should be under the terms of the GNU General Public License as published by the Free Software Foundation.
+ct_fwdpp is a free software. It is under GNU General Public License GPLv3. Any redistribution or modification should be under the terms of the GNU General Public License as published by the Free Software Foundation. This code is modified based on fwdpp by Kevin Thornton.
 
 Note: to display math symbols, please download chrome plug-in [GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima?hl=en)
 
